@@ -1,4 +1,4 @@
-# autoza-co-uk
+# Autoza UK
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,142 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-autoza-co-uk is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://autoza.co.uk/
+Autoza UK is the United Kingdom’s AI‑first used‑vehicle marketplace, offering cars, vans and motorbikes from dealers across the country. The platform provides free car tools, operates without banner ads, and leverages artificial intelligence to match buyers and sellers efficiently. It serves both private buyers and professional dealers, delivering a seamless experience for browsing, pricing, and purchasing used vehicles nationwide.
+
+**Areas:** Automotive · Marketplace · AI · Used-Vehicles · UK
+
+## Autoza UK on APIs.io
+
+Everything profiled for Autoza UK is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/autoza-co-uk/](https://apis.io/providers/autoza-co-uk/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [Autoza UK Dealers API](https://apis.io/apis/autoza-co-uk/autoza-co-uk-dealers-api/) — The Dealers API from Autoza UK — 2 operation(s) for dealers.
+- [Autoza UK Listing API](https://apis.io/apis/autoza-co-uk/autoza-co-uk-listing-api/) — The Listing API from Autoza UK — 1 operation(s) for listing.
+- [Autoza UK Makes API](https://apis.io/apis/autoza-co-uk/autoza-co-uk-makes-api/) — The Makes API from Autoza UK — 1 operation(s) for makes.
+- [Autoza UK Market API](https://apis.io/apis/autoza-co-uk/autoza-co-uk-market-api/) — The Market API from Autoza UK — 1 operation(s) for market.
+- [Autoza UK Search API](https://apis.io/apis/autoza-co-uk/autoza-co-uk-search-api/) — The Search API from Autoza UK — 1 operation(s) for search.
+- [Autoza UK Stats API](https://apis.io/apis/autoza-co-uk/autoza-co-uk-stats-api/) — The Stats API from Autoza UK — 1 operation(s) for stats.
+- [Autoza UK Vehicles API](https://apis.io/apis/autoza-co-uk/autoza-co-uk-vehicles-api/) — The Vehicles API from Autoza UK — 2 operation(s) for vehicles.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Autoza Co Uk Agentic Access](https://apis.io/agentic-access/autoza-co-uk/autoza-co-uk-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PaginationMeta](https://apis.io/schemas/autoza-co-uk/autoza-co-uk-pagination-meta/)
+- [VehicleSummary](https://apis.io/schemas/autoza-co-uk/autoza-co-uk-vehicle-summary/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Autoza Co Uk Context](https://apis.io/jsonld/autoza-co-uk/autoza-co-uk-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Autoza UK API Rules](https://apis.io/rules/autoza-co-uk/autoza-co-uk-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Autoza Co Uk Authentication](https://apis.io/security/autoza-co-uk/autoza-co-uk-authentication/)
+- [Autoza Co Uk Domain Security](https://apis.io/security/autoza-co-uk/autoza-co-uk-domain-security/)
+- [Autoza Co Uk Vulnerability Disclosure](https://apis.io/security/autoza-co-uk/autoza-co-uk-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Autoza Co Uk Scopes](https://apis.io/scopes/autoza-co-uk/autoza-co-uk-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Autoza Co Uk Plans Pricing](https://apis.io/plans/autoza-co-uk/autoza-co-uk-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Autoza Co Uk Rate Limits](https://apis.io/rate-limits/autoza-co-uk/autoza-co-uk-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://autoza.co.uk/)
+- [Documentation](https://autoza.co.uk/guides)
+- [API reference](https://autoza.co.uk/llms.txt)
+- [Blog](https://autoza.co.uk/blog)
+- [Terms of service](https://autoza.co.uk/terms)
+- [Privacy policy](https://autoza.co.uk/privacy)
+
+## API Evangelist rating
+
+**Kin Score 49.8** — developing · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 68.3 |
+| Contract quality | 57.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 34.2 |
+
+**Agent readiness 40.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 37.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/autoza-co-uk/](https://apis.io/providers/autoza-co-uk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Autoza UK: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/autoza-co-uk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
